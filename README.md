@@ -3,7 +3,7 @@ Toda la información necesaria para comenzar a usar Github en el Foundry :smirk:
 
 1. Ingresa a la página https://github.com/ y crea una cuenta, usa tu correo de ATT por favor.
 
-2. Descarga la aplicación desde https://desktop.github.com/ e ingresa con la cuenta que creaste en el paso uno.
+2. Descarga la aplicación de escritorio desde https://desktop.github.com/ e ingresa con la cuenta que creaste en el paso uno.
 
 3. Lo estás haciendo muy bien :thumbsup:
 
