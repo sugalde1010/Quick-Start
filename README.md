@@ -13,6 +13,8 @@ Toda la información necesaria para comenzar a usar Github en el Foundry :smirk:
 
 ## Cómo funciona?
 
+![GitHub Logo](/images/github_gatitos.jpeg)
+
 * Item 1
 * Item 2
   * Item 2a
