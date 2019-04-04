@@ -8,7 +8,7 @@ Toda la información necesaria para comenzar a usar Github en el Foundry :smirk:
 3. Lo estás haciendo muy bien :thumbsup:
 
 4. Hagamos un paréntesis :
-> *Github* aka esta plataforma será nuestro repositorio, donde juntaremos toda la información de nuestros proyectos. 
+> *Github* aka esta plataforma será nuestro repositorio, donde juntaremos toda la información de nuestros proyectos. (codigo,manuales,archivos,fotos,wiki, etc.)
 > *Git* es el software para control de versiones que estaremos usando a travéz de la aplicación que descargaste en el punto 2, descuida, es muy fácil.
 
 ## Cómo funciona?
