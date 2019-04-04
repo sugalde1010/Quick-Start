@@ -9,13 +9,14 @@ Toda la información necesaria para comenzar a usar Github en el Foundry :smirk:
 
 4. Hagamos un paréntesis :
 > *Github* aka esta plataforma será nuestro repositorio, donde juntaremos toda la información de nuestros proyectos. (codigo,manuales,archivos,fotos,wiki, etc.)
+
 > *Git* es el software para control de versiones que estaremos usando a travéz de la aplicación que descargaste en el punto 2, descuida, es muy fácil.
 
 ## Cómo funciona?
 
 ![GitHubLogo](/images/github_gatitos.jpg)
 * Trabajando con git:
-  * Todos haremos una copia en nuestras computadoras del repositorio remoto (el original que está alojado en Github), ésta copia local podemos modificarla sin alterar el original, dale sin miedo! :cold_sweat:
+  * Todos haremos una copia en nuestras computadoras del repositorio remoto -el original que está alojado en Github- ésta copia local podemos modificarla sin alterar el original, dale sin miedo! :cold_sweat:
   * Cuando estemos satisfechos con los cambios locales los subiremos al repositorio remoto para que se mezclen con el original.
   * De esta manera todos contribuiremos a tener un original más grande y completo.
 
